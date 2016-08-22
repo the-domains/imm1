@@ -1,4 +1,3 @@
-layout_spectrum: 0.14879309479147196
 typography_spectrum: 0.878503997111693
 color:
   brandStrength: 0.29249144555069506
@@ -6,9 +5,11 @@ color:
   saturation: 0.6559361654799432
   rhythmicContrast: 0.592882446711883
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.14879309479147196
 name: IMM1
+title: Create Your Strategy
